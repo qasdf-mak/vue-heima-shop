@@ -1,0 +1,23 @@
+{
+  "id": "3485575",
+  "name": "heima-shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "183381",
+      "name": "换肤",
+      "font_class": "huanfu",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "6311139",
+      "name": "换肤",
+      "font_class": "huanfu1",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}
