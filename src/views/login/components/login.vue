@@ -102,6 +102,7 @@
         .from-box-login {
             padding: 20px;
             margin-top: 60px;
+            color: #000;
 
             .btn-box {
                 margin-top: 10px;
